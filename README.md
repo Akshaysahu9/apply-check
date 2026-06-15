@@ -6,7 +6,7 @@ The platform analyzes uploaded resumes, calculates ATS scores, identifies skills
 
 ## 🌐 Live Demo
 
-https://apply-check.vercel.app
+https://apply-check-alpha.vercel.app/
 
 ---
 
